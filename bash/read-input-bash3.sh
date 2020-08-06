@@ -12,7 +12,7 @@
 
 # echo "end"
 
-echo -n "Would you like to distribute the image to the APTNER production service(Y/N)"
+echo -n "Would you like to distribute the image to the XXXXX production service(Y/N)"
 read YN
 
 YN=$(echo "$YN" | tr '[:upper:]' '[:lower:]')
