@@ -1,5 +1,0 @@
-env: #{ENV}
-service: #{SERVICE}
-
-test1
-test2
